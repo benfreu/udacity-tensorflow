@@ -60,3 +60,12 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+#Mac
+.DS_Store
+
+#project specific
+notMNIST_large/
+notMNIST_small/
+notMNIST_large.tar.gz
+notMNIST_small.tar.gz
